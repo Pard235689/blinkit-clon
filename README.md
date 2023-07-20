@@ -1,1 +1,1 @@
-# blinkit-clon
+# blinkit-clone
